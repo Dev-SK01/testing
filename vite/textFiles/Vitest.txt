@@ -1,0 +1,25 @@
+--------------------------- VITEST -----------------
+
+1. vitest is an unit testin framework for js.
+
+2. npm i vite vitest @vitest/ui for ui
+
+3. package.json add scripts ["test:ui": "vitest --ui --api PORT]
+
+4. vite.config.js file define test:globals:true --> to aviod import of vitest every test file
+
+5. run the test command it will launch UI
+
+6. vitest uses chai,jest assertion lib underthehood and it uses the vite 
+
+----------------- Writting Test Cases ---------------
+
+1. describe('Name of the test' ,()=>{
+    it('Test' ,()=>{
+        expect(func),toBe(val);
+    })
+});
+
+2. describe --> desctribes the test yout runs
+
+3. it --> test name and takes the test function

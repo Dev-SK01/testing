@@ -1,0 +1,12 @@
+------------------------------- TESTING -----------------
+
+1. testing means testing a accessing the quality of the software. it includes start to end of the project.
+
+2. testing is nont last time testing its all about each phase testing.
+
+3. it includes test plan , analyse, designing , report , test execution ,evaluation
+
+4. static tesing means during development period testing , dynamic before production testing
+
+5. meeting the expectations of customer  at right time , configurations , price
+ 

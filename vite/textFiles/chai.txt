@@ -1,0 +1,11 @@
+------------------------ VITEST CHAI LIB ---------------
+
+1. toBe() --> exact value expect
+
+2. not.equal()
+
+3. to.be.a(types) --> checks types
+
+4. to.deep.equal() --> iterates the objects props
+
+5. fail()
