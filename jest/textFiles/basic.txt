@@ -1,0 +1,9 @@
+----------------------------- BASIC JEST TESTING -----------------
+ 
+  npm init jest@latest run this CMD to itial jest configs
+  
+1. It is used to Done the Unit Testing 
+
+2. test('test case' , testFunction) --> used to create a test case
+ 
+3.

@@ -1,0 +1,11 @@
+------------------------- JEST TEST FUNCITONS -------------------
+
+1. expect(value) --> expeted test case value || Asseetions
+
+2. toBe() --> actual test value , nuber,bool,string  || Mactchers
+
+3. toBeFalsy() --> checks the js falsy values
+
+4. toThrow() --> Testing error handling function. expect need to return te error to pass the error test
+
+5. done() --> mentions the test is completed. test() gives the done function

@@ -1,0 +1,15 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Jest Testing framework Learning",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

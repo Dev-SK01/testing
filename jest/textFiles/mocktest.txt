@@ -1,0 +1,13 @@
+----------------------- MOCK TEST ----------------
+
+1. mock test is an fack fucnction to see the behavior fo the test , track , spy the functions.
+
+2. mock is used to isolate the unit of the code tests
+
+3. jest.fn(fucnction) --> creates the mock test functions in JEST
+
+4. toHaveBeenCalledWith(param) --> checks with the fn called with param
+
+5. spyOn(object , fn) --> used to spy the function observes the behavior
+
+6. mockRestore() --> restore after the spyFn

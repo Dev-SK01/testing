@@ -1,6 +1,6 @@
 --------------------------- VITEST -----------------
 
-1. vitest is an unit testin framework for js.
+1. vitest is an unit testing framework for js.
 
 2. npm i vite vitest @vitest/ui for ui
 
@@ -20,6 +20,6 @@
     })
 });
 
-2. describe --> desctribes the test yout runs
+2. describe --> desctribes the tests
 
 3. it --> test name and takes the test function
